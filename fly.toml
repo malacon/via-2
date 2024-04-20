@@ -1,5 +1,5 @@
-app = "via-2-7065"
-primary_region = "sjc"
+app = "via-edc4"
+primary_region = "dfw"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
